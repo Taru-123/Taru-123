@@ -1,12 +1,17 @@
-<!-- Animated Waving Banner -->
+<!-- 1. Wave Banner Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Tarulata%20Sahu&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-<!-- Animated Typing Text -->
+<!-- 2. Smooth Typing Effect Animation -->
 <h3 align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Python+%26+JavaScript+Learner;Welcome+to+my+GitHub+Profile!">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Python+%26+JavaScript+Learner;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </h3>
+
+<!-- 3. Animated Floating Coding GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400" alt="Coding GIF" />
+</p>
 
 ---
 
