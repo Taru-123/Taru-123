@@ -1,17 +1,29 @@
-# Hi 👋, I'm Tarulata Sahu
+<!-- Animated Banner Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Tarulata%20Sahu&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-### 💫 About Me
-- 🔭 I’m currently working on my projects
-- 🌱 I’m currently learning Full Stack Web Development
-- 💬 Ask me about Web Development, Python, JavaScript
+<!-- Animated Typing Text -->
+<h3 align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Python+%26+JavaScript+Learner;Welcome+to+my+GitHub+Profile!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Python+%26+JavaScript+Learner;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
+</h3>
 
 ---
 
-### 🛠️ Languages & Tools
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+### 💫 About Me
+- 🔭 Currently working on web application projects
+- 🌱 Learning Full Stack Web Development
+- 💬 Ask me about HTML, CSS, JavaScript, Python
+
+---
+
+### 🛠️ Languages & Tools (Animated)
+<p>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
+</p>
 
 ---
 
