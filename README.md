@@ -1,14 +1,14 @@
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="100"/>
-</p>
+<div align="center">
 
-<h2 align="center">
-  🐍 Python Developer
-</h2>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+     width="120">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=3776AB&center=true&vCenter=true&width=650&lines=Python+%F0%9F%90%8D;Building+with+Python+%F0%9F%92%BB;Learning+%7C+Coding+%7C+Creating+%F0%9F%9A%80;Turning+Ideas+into+Code+%E2%9C%A8" />
-</p>
+<h1>🐍 Python Developer</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=120&section=header&text=Python%20%F0%9F%90%8D&fontSize=45&fontColor=ffffff&animation=fadeIn">
+
+</div>
+
 ### 💫 About Me
 - 🔭 Currently working on web application projects
 - 🌱 Learning Full Stack Web Development
